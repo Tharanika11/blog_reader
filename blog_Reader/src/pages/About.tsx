@@ -25,7 +25,7 @@ export default function About() {
             </ul>
           </p>
           <p><strong>Developer:</strong> Tharanika Perinparasa </p>
-          <p><strong>GitHub:</strong> <a href="https://github.com/Tharanika11/blog-reader.git" target="_blank" rel="noreferrer">Project Repository</a></p>
+          <p><strong>GitHub:</strong> <a href="https://github.com/Tharanika11/blog_reader.git" target="_blank" rel="noreferrer">Project Repository</a></p>
         </div>
       </div>
     );
